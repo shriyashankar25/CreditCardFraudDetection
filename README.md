@@ -76,3 +76,18 @@ CreditCardFraudDetection
 ## Author
 
 Shriya Shankar
+
+
+## Visualizations
+
+### Fraud vs Non-Fraud Transactions
+
+![Fraud vs Non-Fraud](Images/fraud_vs_normal.png.png)
+
+### Transaction Amount Distribution
+
+![Amount Distribution](Images/amount_distribution.png.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](Images/confusion_matrix.png.png)
